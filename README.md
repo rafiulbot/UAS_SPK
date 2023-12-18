@@ -1,9 +1,13 @@
 File yang digunakan untuk UAS yaitu:
 
 requirements.txt
+
 engine.py
+
 settings.py
+
 models_Uas.py
+
 main_UAS.py
 
 Python : 3.11.2
